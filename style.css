@@ -6,7 +6,7 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("assets/four.jpg"); alt="An image of nature and various flowers.";
+  background-image: url("four.jpg"); alt="An image of nature and various flowers.";
   min-height: 75%;
 }
 
